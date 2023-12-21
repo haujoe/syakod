@@ -72,7 +72,7 @@ My GPG key hosted here at [GitHub](https://github.com/syakod.gpg) and also [Keyb
   <summary>:notebook: Some statistics ...</summary><br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C939%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C939%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -115,17 +115,17 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   33 mins             █████████░░░░░░░░░░░░░░░░   37.10 % 
-TypeScript               23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Astro                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Astro                    18 mins             ████████████████████░░░░░   81.27 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -141,7 +141,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2023 01:05:43 UTC
+ Last Updated on 21/12/2023 01:18:20 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/syakod#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=syakod&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>

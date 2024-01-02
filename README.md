@@ -72,7 +72,7 @@ My GPG key hosted here at [GitHub](https://github.com/syakod.gpg) and also [Keyb
   <summary>:notebook: Some statistics ...</summary><br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C941%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C941%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,7 +80,7 @@ My GPG key hosted here at [GitHub](https://github.com/syakod.gpg) and also [Keyb
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -115,17 +115,17 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   13 mins             █████████████░░░░░░░░░░░░   52.58 % 
-Bash                     12 mins             ████████████░░░░░░░░░░░░░   46.26 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Astro                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Bash                     24 mins             █████████████░░░░░░░░░░░░   53.87 % 
+Vue.js                   13 mins             ████████░░░░░░░░░░░░░░░░░   31.28 % 
+Docker                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -141,7 +141,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2024 01:25:20 UTC
+ Last Updated on 02/01/2024 01:16:54 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/syakod#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=syakod&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>

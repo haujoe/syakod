@@ -60,7 +60,7 @@
 
 - Website: [syakod.com](https://syakod.com/)
 - Email: [hi@syakod.com](mailto:hi@syakod.com)
-- Twitter: [@imsyakod](https://twitter.com/imsyakod)
+- Twitter: [@syakod233](https://twitter.com/syakod233)
 
 You can also ask me a question on my [Public AMA](https://github.com/syakod/syakod/discussions/new?category=ama)
 

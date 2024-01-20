@@ -72,9 +72,9 @@ My GPG key hosted here at [GitHub](https://github.com/syakod.gpg) and also [Keyb
   <summary>:notebook: Some statistics ...</summary><br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C970%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C975%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -115,17 +115,17 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   15 hrs 48 mins      █████████████████████░░░░   85.53 % 
-TypeScript               2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Vue.js                   17 hrs 38 mins      ██████████████████████░░░   86.75 % 
+TypeScript               2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -141,7 +141,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2024 01:21:48 UTC
+ Last Updated on 20/01/2024 01:19:42 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/syakod#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=syakod&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>
